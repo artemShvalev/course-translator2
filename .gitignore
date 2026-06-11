@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+build_env/
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Проект
+config.json
+app.log
+downloads/
+*.srt
+*.wav
+*.dubbed.mp4
+*.exe
+*.spec
+
+# IDE
+.vscode/
+.idea/
