@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎬 Video Subtitle Translator (en → ru)
 
 Простая и быстрая программа для офлайн-перевода английских видео/аудио в русские субтитры (формат SRT).
@@ -43,6 +44,9 @@ python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 python gui_translator.py
+=======
+# 🎬 Course-Translaitor — офлайн перевод видео с озвучкой
+>>>>>>> 7c313bf9fc209d8f230ba54fed0b636330ba319f
 
 Автономное приложение для перевода лекций, курсов и любых видео с английского на русский язык.  
 Работает полностью без интернета, использует Whisper для распознавания, Argos Translate для перевода и Silero TTS для синтеза речи.
